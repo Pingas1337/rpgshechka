@@ -36,7 +36,7 @@ namespace ConsoleApplication1
             }
             else
             {
-                 return "not enough mana";
+                 return "not enough mana"; 
             }
         }
         }
